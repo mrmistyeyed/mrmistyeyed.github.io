@@ -1,0 +1,25 @@
+p {
+  color: blue;
+}
+
+h1 {
+  color: white;
+}
+
+.paragraph1 {
+  color: magenta;
+}
+
+body {
+  background-color: #b3ecff;
+}
+
+div {
+  background: url("http://3.bp.blogspot.com/-47j42jk9q9M/Tmx-DeCclNI/AAAAAAAAC7Y/oDeS2BGtj10/s1600/Adventure_Time_Cartoon_HD_Wallpaper_www.Vvallpaper.Net.png")
+
+width: 100%
+background-size: cover;
+
+
+color: white;
+}
